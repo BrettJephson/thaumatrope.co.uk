@@ -1,0 +1,26 @@
+{
+  "name": "thaumatrope.co.uk",
+  "version": "1.0.0",
+  "description": "Thaumatrope Limited website",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaumatrope-ltd/thaumatrope.co.uk.git"
+  },
+  "keywords": [
+    "website",
+    "blog",
+    "company",
+    "site"
+  ],
+  "author": "Brett Jephson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thaumatrope-ltd/thaumatrope.co.uk/issues"
+  },
+  "homepage": "https://github.com/thaumatrope-ltd/thaumatrope.co.uk#readme"
+}
