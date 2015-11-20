@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/thaumatrope-ltd/thaumatrope.co.uk/issues"
   },
-  "homepage": "https://github.com/thaumatrope-ltd/thaumatrope.co.uk#readme"
+  "homepage": "https://github.com/thaumatrope-ltd/thaumatrope.co.uk#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
 }
