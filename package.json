@@ -25,5 +25,8 @@
   "homepage": "https://github.com/thaumatrope-ltd/thaumatrope.co.uk#readme",
   "dependencies": {
     "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
   }
 }
